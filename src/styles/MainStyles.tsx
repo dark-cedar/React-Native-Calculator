@@ -23,7 +23,7 @@ export const Styles = StyleSheet.create({
       shadowOpacity: 1,
       shadowRadius: 20,
       shadowOffset: { width: 0, height: 0 },
-      elevation: 5,
+      elevation: 5
     },
     darkMode: {
       backgroundColor: '#1B6A9C',
@@ -81,7 +81,6 @@ export const Styles = StyleSheet.create({
       height: 70,
       backgroundColor: '#C1E4FC',
       borderRadius: 100,
-      paddingTop: 5,
       shadowColor: 'rgba(0, 0, 0, 0.05)',
       shadowOpacity: 1,
       shadowRadius: 15,
@@ -156,12 +155,16 @@ export const Styles = StyleSheet.create({
   screenFirstNumber: {
     fontFamily: 'Poppins_500Medium',
     fontSize: 22,
-    textAlign: 'right'
+    textAlign: 'right',
+    maxWidth: 270,
+    maxHeight: 60,
   },
   screenSecondNumber: {
     fontFamily: 'Poppins_700Bold',
     fontSize: 40,
-    textAlign: 'right'
+    textAlign: 'right',
+    maxWidth: 270,
+    maxHeight: 120,
   },
   belowBlock: {
     display: 'flex',
