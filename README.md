@@ -1,3 +1,4 @@
+# Project Description
 Experience the power of seamless calculations with our React Native Calculator! Whether you're a mathematician, a student, or just need to crunch numbers on the go, our calculator app provides a user-friendly interface and a robust set of functions to meet your needs.
 
 Key Features:
@@ -12,6 +13,5 @@ Key Features:
 
     Offline Support: Whether you're on the subway or in a remote location without internet access, our calculator works seamlessly offline, ensuring you never miss a beat.
 
-Why Choose Our Calculator?
 
-Our React Native Calculator combines functionality, simplicity, and reliability, making it the perfect companion for all your mathematical needs. Download now and experience the convenience of precise calculations at your fingertips!
+![Cover](https://github.com/user-attachments/assets/7b93d4cf-8230-49f1-98dd-67db860312de)
